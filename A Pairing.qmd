@@ -1,5 +1,5 @@
 ---
-title: "A Pairing"
+title: "a pairing"
 format:
   html:
     mainfont: "Georgia"
@@ -15,4 +15,8 @@ Eventually, Shawn and I playing got together again on Kansas City's Westside whi
 [![Curling When The Crisis Hits (2026) A Pairing](Curling%20When%20The%20Crisis%20Hits.jpg){width="500"}](https://shawnedwardhansen.bandcamp.com/album/curling-when-the-crisis-hits)
 :::
 
-​​I described this, our most recent release, to a friend as improvised microtonal music, though that may not be strictly speaking accurate. I'm playing a nice instrument here, borrowed from Johnny Hammill with one of his French bows alternating with a short bow made by Tatsuya Nakatani made for bowing cymbals. I generally don't like the timbre of the bass when I bow it, nevertheless, I make a point of playing with a bow when I get the chance—hoping that through repetition I will improve. Listening back to these recordings I hear the an anxiety in my sound that is familiar and appropriate for these songs.
+​​I described this, our most recent release, to a friend as improvised microtonal music, though that may not be strictly speaking accurate. I'm playing a nice instrument here, borrowed from Johnny Hammill with one of his French bows alternating with a short bow made by Tatsuya Nakatani for bowing cymbals. I generally don't like the timbre of the bass when I bow it, nevertheless, I make a point of playing with a bow when I get the chance—hoping that through repetition I will improve. Listening back to these recordings I hear the an anxiety in my sound that is familiar and appropriate for these songs.
+
+::: {style="text-align: center;"}
+[![Long Wave Corn Model (2015)](long wave.png)](https://shawnedwardhansen.bandcamp.com/album/curling-when-the-crisis-hits)
+:::
