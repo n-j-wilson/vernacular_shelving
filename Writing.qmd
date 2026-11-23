@@ -1,3 +1,15 @@
 ---
 title: "Writing"
+
+format:
+  html:
+    mainfont: "Georgia"
 ---
+
+[Paul Johnson's Napoleon](Paul-Johnson-s-Napoleon.html)
+
+[Concord Hymn](Concord-Hymn.html)
+
+[Gallery Walk 1/2026](Writing/gallery walk.html)
+
+

@@ -3,18 +3,18 @@ title: "Vernacular Shelving"
 navbar: false
 format:
   html:
-    mainfont: "Baskerville"
+    mainfont: "Georgia"
 ---
 
 The digital archive of Neal J. Wilson.
 
 ::::: columns
 ::: {.column width="40%"}
-![](Spurse%20Box%20copy.jpeg){fig-align="left"}
+![](images/Spurse%20Box%20copy.jpeg){fig-align="left"}
 :::
 
 ::: {.column width="60%"}
- Writing\
+ [Writing](writing.html)\
  [A Pairing](A%20Pairing.html)\
  [HMH Services](https://hmhservices.tumblr.com/)\
  "Radio Show"\
