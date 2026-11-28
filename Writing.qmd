@@ -6,11 +6,11 @@ format:
     mainfont: "Georgia"
 ---
 
-[Paul Johnson's Napoleon](Paul-Johnson-s-Napoleon.html)
+[Paul Johnson's Napoleon](Writing/Paul-Johnson-s-Napoleon.html)
 
-[An Introduction to the Economic Basis of the New Society](Introduction-to-Economic-Basis-of-New-Society.html)
+[An Introduction to the Economic Basis of the New Society](Writing/Introduction-to-Economic-Basis-of-New-Society.html)
 
-[Concord Hymn](Concord-Hymn.html)
+[Concord Hymn](Writing/Concord-Hymn.html)
 
 [Gallery Walk 1/2026](Writing/gallery walk.html)
 
