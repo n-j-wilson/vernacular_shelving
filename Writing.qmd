@@ -8,7 +8,7 @@ format:
 
 [Paul Johnson's Napoleon](Paul-Johnson-s-Napoleon.html)
 
-[An Introduction to the Economic Basis of the New Society]
+[An Introduction to the Economic Basis of the New Society](Introduction-to-Economic-Basis-of-New-Society.html)
 
 [Concord Hymn](Concord-Hymn.html)
 
