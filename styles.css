@@ -1,0 +1,5 @@
+/* css styles */
+
+.navbar-nav .nav-link.active {
+  display: none;
+}
